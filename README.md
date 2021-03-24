@@ -11,5 +11,9 @@ This notebook works with Python 3. To run the jupyter notebook the following lib
 
 Each library can be installed using "pip install library_name".
 
-## Used data set
+## Data set
 The data set used can be found on the kaggle web site under the following link: https://www.kaggle.com/airbnb/seattle
+
+## Results
+A short description of the results can be found in the jupyter notebook.
+Furthermore, a blog post with a non-technical summary of the results can be found under the following link: https://thomas-hoellen.medium.com/these-insights-will-make-your-seattle-airbnb-successful-1048595f28c0
