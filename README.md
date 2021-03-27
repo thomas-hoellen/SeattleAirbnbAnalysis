@@ -6,9 +6,6 @@ The analysis of Airbnb data can help hosts to improve their listings and attract
 
 ## Which files are in this repository?
 * Seattle_Airbnb_Analysis.ipynb: The jupyter notebook that contains all code that is necessary to follow the analysis that was done.
-* MIT License: License that allows you to use my code.
-* Readme.md: Contains overview and information about this repository.
-
 
 ## Neccessary libraries
 This notebook works with Python 3. To run the jupyter notebook the following libraries are needed:
